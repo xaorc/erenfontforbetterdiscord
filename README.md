@@ -32,8 +32,8 @@ Configure the Theme:
 In the Vencord settings, go to the "Themes" section.
 Click on "Add a theme".
 Select the downloaded background file.
-Activate the Galactic Radiance theme.
+Activate the Eren font.
 Restart Discord:
 
 Restart Discord to apply the changes.
-Enjoy your new cosmic interface with Galactic Radiance!
+Enjoy your new cosmic interface with Eren font!
