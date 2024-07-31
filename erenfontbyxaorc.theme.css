@@ -1,0 +1,56 @@
+/**
+ * @name eren font by xaorc
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.dev
+ * @authorId 174868361040232448
+ * @BDEditor Frosted Glass
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://media.discordapp.net/attachments/1254187495512342589/1268229180584235190/i.jpg?ex=66aba9f7&is=66aa5877&hm=123b3e0f5466d14638ff33e5732b217b732c8540f49ddc875cb55ba22f6e5b49&=&format=webp&width=1440&height=648');
+  --background-image-blur: 5px;
+  --background-image-size: 100%;
+  --background-image-position: center;
+  --popout-image: var(--background-image);
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: var(--background-image);
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --overlay-brightness: 1;
+  --gradient-primary: 250,247,22;
+  --gradient-secondary: 253,212,74;
+  --link-colour: #57D8C1;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 320deg;
+  --tint-colour: 250,247,22;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 0px;
+  --window-roundness: 0px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 45px;
+  --HSL-server-spacing: 25px;
+}
+
+/* Any custom CSS below here */
+
+
